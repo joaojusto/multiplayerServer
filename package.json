@@ -1,0 +1,22 @@
+{
+  "name": "multiplayerServer",
+  "version": "0.0.1",
+  "description": "A experience on using webrtc to create multiplayer games",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joaojusto/multiplayerServer.git"
+  },
+  "author": "João Justo",
+  "bugs": {
+    "url": "https://github.com/joaojusto/multiplayerServer/issues"
+  },
+  "homepage": "https://github.com/joaojusto/multiplayerServer",
+  "dependencies": {
+    "express": "^4.11.2",
+    "peer": "^0.2.8"
+  }
+}
